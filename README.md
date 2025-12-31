@@ -50,29 +50,26 @@ and I’m interested in backend, AI, and agentic system roles.
 
 🔹 **CV Analysis System — Agentic RAG Chatbot**  
 - Agent-based chatbot for querying ingested CV data  
-- Dynamic tool calling based on user questions  
+- Dynamic tool calling based on user questions
+- Supported asynchronous workflows and background tasks where needed 
 - LangChain, LangGraph, ChromaDB, Django, Celery
-https://github.com/OssOss13/cv-analysis-system
+- https://github.com/OssOss13/cv-analysis-system
 
 🔹 **Noor — Backend System**  
 - Django-based academy management system  
 - Managed users, sessions, teachers, and documents  
 - Implemented role-based access control (RBAC)  
 - Designed backend APIs and data models
-https://github.com/Wesambeshir/noorapp2
+- https://github.com/Wesambeshir/noorapp2
 
 🔹 **Emotion Recognition of Arabic Tweets**  
-https://github.com/shahdmedhat/Emotion-Recognition-of-Arabic-Tweets  
-- Fine-tuned AraBERT for sentiment analysis on Arabic tweets  
-https://github.com/shahdmedhat/Emotion-Recognition-of-Arabic-Tweets
+- Fine-tuned AraBERT for sentiment analysis on Arabic tweets
+- https://github.com/shahdmedhat/Emotion-Recognition-of-Arabic-Tweets
 
 🔹 **Zalando Mirror (Backend Microservices)**  
-https://github.com/philo-atef/Zalando_Mirror  
-- Spring Boot microservices for orders and payments  
-https://github.com/philo-atef/Zalando_Mirror
+- Spring Boot microservices for orders and payments
+- https://github.com/philo-atef/Zalando_Mirror
 
-
-https://github.com/Wesambeshir/noorapp2
 ---
 
 ### 📫 Contact
