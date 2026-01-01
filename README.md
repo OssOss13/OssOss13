@@ -1,8 +1,8 @@
 ## Hi 👋, I’m Mohanad Osman
 
-I’m a Software Engineer and AI Engineer with hands-on experience building
+I’m a Software Engineer with hands-on experience building
 backend systems and integrating AI models into production web applications.
-I’m starting my Master’s degree in Artificial Intelligence in Austria in March
+I’m starting my Master’s degree in Artificial Intelligence in Johannes Kepler University in March
 and I’m interested in backend, AI, and agentic system roles.
 
 ---
